@@ -18,9 +18,9 @@ The main goal of this project is to analyze the Airbnb listing in the Los Angele
 
 # Takeaways
 
-![map4](.\map4.gif)![map1](.\map1.PNG)
+![map4](https://github.com/ruilong96/Airbnb-baseline-visualization/blob/master/map4.gif)![map1](https://github.com/ruilong96/Airbnb-baseline-visualization/blob/master/map1.PNG)
 
-![map3](.\map3.PNG)![map3](.\map2.PNG)
+![map3](https://github.com/ruilong96/Airbnb-baseline-visualization/blob/master/map3.PNG)![map3](https://github.com/ruilong96/Airbnb-baseline-visualization/blob/master/map2.PNG)
 
 * Popular areas such as Santa Monica Beach, Beverly Hill are more expensive then the other areas.
 * Los Angeles downtown is densely populated by the listings in the recent years, but the price are not as expensive as the other area.
